@@ -1,0 +1,7 @@
+title
+h1 tag 
+p tag'
+link
+font
+chNGE COLOR - text 
+how to change the color when hovering over something 
